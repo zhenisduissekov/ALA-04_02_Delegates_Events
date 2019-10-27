@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8DB9F368-FC8F-4268-BB9B-313CFB0C3C5D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task3_Events/Countdown.cs">
+    <Files>
+      <File FileName="Task3_Events/Program.cs" Line="6" Column="74" />
+      <File FileName="Task3_Events/Countdown.cs" Line="24" Column="13" />
+      <File FileName="Task3_Events/Alarm.cs" Line="2" Column="4" />
+      <File FileName="Task3_Events/AlarmEventArgs.cs" Line="6" Column="74" />
+      <File FileName="Task3_Events/MailServices.cs" />
+      <File FileName="Task3_Events/EmailServices.cs" Line="21" Column="6" />
+      <File FileName="Task3_Events/MsgServices.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task3_Events" expanded="True">
+            <Node name="Task3_Events" expanded="True">
+              <Node name="Countdown.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Task3__Events PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

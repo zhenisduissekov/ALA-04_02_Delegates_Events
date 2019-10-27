@@ -1,0 +1,33 @@
+/Users/zhenis/Projects/ALA-01-09-Creating_Types/Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort
+/Users/zhenis/Projects/ALA-01-09-Creating_Types/Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort.deps.json
+/Users/zhenis/Projects/ALA-01-09-Creating_Types/Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort.runtimeconfig.json
+/Users/zhenis/Projects/ALA-01-09-Creating_Types/Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort.runtimeconfig.dev.json
+/Users/zhenis/Projects/ALA-01-09-Creating_Types/Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort.dll
+/Users/zhenis/Projects/ALA-01-09-Creating_Types/Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort.pdb
+/Users/zhenis/Projects/ALA-01-09-Creating_Types/Task2_MyBubbleSort/Task2_MyBubbleSort/obj/Debug/netcoreapp3.0/Task2_MyBubbleSort.csprojAssemblyReference.cache
+/Users/zhenis/Projects/ALA-01-09-Creating_Types/Task2_MyBubbleSort/Task2_MyBubbleSort/obj/Debug/netcoreapp3.0/Task2_MyBubbleSort.AssemblyInfoInputs.cache
+/Users/zhenis/Projects/ALA-01-09-Creating_Types/Task2_MyBubbleSort/Task2_MyBubbleSort/obj/Debug/netcoreapp3.0/Task2_MyBubbleSort.AssemblyInfo.cs
+/Users/zhenis/Projects/ALA-01-09-Creating_Types/Task2_MyBubbleSort/Task2_MyBubbleSort/obj/Debug/netcoreapp3.0/Task2_MyBubbleSort.dll
+/Users/zhenis/Projects/ALA-01-09-Creating_Types/Task2_MyBubbleSort/Task2_MyBubbleSort/obj/Debug/netcoreapp3.0/Task2_MyBubbleSort.pdb
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort.deps.json
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort.runtimeconfig.json
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort.runtimeconfig.dev.json
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort.dll
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort.pdb
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2_MyBubbleSort/Task2_MyBubbleSort/obj/Debug/netcoreapp3.0/Task2_MyBubbleSort.csprojAssemblyReference.cache
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2_MyBubbleSort/Task2_MyBubbleSort/obj/Debug/netcoreapp3.0/Task2_MyBubbleSort.AssemblyInfoInputs.cache
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2_MyBubbleSort/Task2_MyBubbleSort/obj/Debug/netcoreapp3.0/Task2_MyBubbleSort.AssemblyInfo.cs
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2_MyBubbleSort/Task2_MyBubbleSort/obj/Debug/netcoreapp3.0/Task2_MyBubbleSort.dll
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2_MyBubbleSort/Task2_MyBubbleSort/obj/Debug/netcoreapp3.0/Task2_MyBubbleSort.pdb
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort.deps.json
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort.runtimeconfig.json
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort.runtimeconfig.dev.json
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort.dll
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/bin/Debug/netcoreapp3.0/Task2_MyBubbleSort.pdb
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/obj/Debug/netcoreapp3.0/Task2_MyBubbleSort.csprojAssemblyReference.cache
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/obj/Debug/netcoreapp3.0/Task2_MyBubbleSort.AssemblyInfoInputs.cache
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/obj/Debug/netcoreapp3.0/Task2_MyBubbleSort.AssemblyInfo.cs
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/obj/Debug/netcoreapp3.0/Task2_MyBubbleSort.dll
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/obj/Debug/netcoreapp3.0/Task2_MyBubbleSort.pdb

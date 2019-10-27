@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2_MyBubbleSort", "Task2_MyBubbleSort\Task2_MyBubbleSort.csproj", "{A931B298-6307-4E32-8903-E04AA7798E49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2_MyBubbleSortTest", "Task2_MyBubbleSortTest\Task2_MyBubbleSortTest.csproj", "{EB6BDAEE-BD1D-4F3E-A1FE-CDDA8F64348B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A931B298-6307-4E32-8903-E04AA7798E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A931B298-6307-4E32-8903-E04AA7798E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A931B298-6307-4E32-8903-E04AA7798E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A931B298-6307-4E32-8903-E04AA7798E49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB6BDAEE-BD1D-4F3E-A1FE-CDDA8F64348B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6BDAEE-BD1D-4F3E-A1FE-CDDA8F64348B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6BDAEE-BD1D-4F3E-A1FE-CDDA8F64348B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6BDAEE-BD1D-4F3E-A1FE-CDDA8F64348B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

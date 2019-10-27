@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSortTest/Task2_MyBubbleSortTest.csproj": {}
+  },
+  "projects": {
+    "/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/Task2_MyBubbleSort.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/Task2_MyBubbleSort.csproj",
+        "projectName": "Task2_MyBubbleSort",
+        "projectPath": "/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/Task2_MyBubbleSort.csproj",
+        "packagesPath": "/Users/zhenis/.nuget/packages/",
+        "outputPath": "/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zhenis/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSortTest/Task2_MyBubbleSortTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSortTest/Task2_MyBubbleSortTest.csproj",
+        "projectName": "Task2_MyBubbleSortTest",
+        "projectPath": "/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSortTest/Task2_MyBubbleSortTest.csproj",
+        "packagesPath": "/Users/zhenis/.nuget/packages/",
+        "outputPath": "/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSortTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zhenis/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/Task2_MyBubbleSort.csproj": {
+                "projectPath": "/Users/zhenis/Projects/ALA-04-02_Delegates/Task2/ALA-1 Task2_MyBubbleSort/Task2_MyBubbleSort/Task2_MyBubbleSort.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

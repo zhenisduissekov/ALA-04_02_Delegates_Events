@@ -1,0 +1,11 @@
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task3/Task3_Events/Task3_Events/bin/Debug/netcoreapp3.0/Task3_Events
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task3/Task3_Events/Task3_Events/bin/Debug/netcoreapp3.0/Task3_Events.deps.json
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task3/Task3_Events/Task3_Events/bin/Debug/netcoreapp3.0/Task3_Events.runtimeconfig.json
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task3/Task3_Events/Task3_Events/bin/Debug/netcoreapp3.0/Task3_Events.runtimeconfig.dev.json
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task3/Task3_Events/Task3_Events/bin/Debug/netcoreapp3.0/Task3_Events.dll
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task3/Task3_Events/Task3_Events/bin/Debug/netcoreapp3.0/Task3_Events.pdb
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task3/Task3_Events/Task3_Events/obj/Debug/netcoreapp3.0/Task3_Events.csprojAssemblyReference.cache
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task3/Task3_Events/Task3_Events/obj/Debug/netcoreapp3.0/Task3_Events.AssemblyInfoInputs.cache
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task3/Task3_Events/Task3_Events/obj/Debug/netcoreapp3.0/Task3_Events.AssemblyInfo.cs
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task3/Task3_Events/Task3_Events/obj/Debug/netcoreapp3.0/Task3_Events.dll
+/Users/zhenis/Projects/ALA-04-02_Delegates/Task3/Task3_Events/Task3_Events/obj/Debug/netcoreapp3.0/Task3_Events.pdb
